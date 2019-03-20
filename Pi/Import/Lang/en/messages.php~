@@ -1,6 +1,0 @@
-<?php
-
-return [
-    'success_uploadart' => 'Upload stores successfully',
-    'failure_uploadart' => 'Failure to upload stores'
-];
